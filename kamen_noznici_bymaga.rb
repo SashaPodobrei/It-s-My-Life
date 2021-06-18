@@ -10,7 +10,7 @@ if a == c
 elsif a == 0 && c == 1 
 		puts "Вы выграли!"
 elsif a == 1 && c == 2
-				puts "Вы выграли!!"
+		puts "Вы выграли!!"
 elsif a == 2 && c == 0
 		puts "Вы выграли!!!"
 else
